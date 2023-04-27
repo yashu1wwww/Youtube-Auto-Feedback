@@ -1,25 +1,19 @@
 # Youtube-Auto-Feedback-
 Youtube Auto Feedback using python
 
-replace 10th & 11th line with mail and password in script
+Replace the 10th and 11th lines with "Enter your email" and "Enter your password" respectively in the script.
 
-and 26th line with sendback text..
+Replace the 26th line with "Print the text received from the server."
 
-in cmd enter
+In the command prompt, enter "pip install Random" and hit the Enter button.
 
-pip install Random
+Then, enter "pip install undetected_chromedriver" and hit the Enter button.
 
-and hit enter button
+After downloading the folder, extract it and open the command prompt. Enter "python" to check your Python version.
 
-and again enter pip install undetected_chromedriver 
+Download the ChromeDriver (https://chromedriver.chromium.org/downloads) that matches your Chrome version and extract it to the downloaded folder.
 
-and hit enter button
-
-After download the folder extract it and open cmd and enter Python If You Find Python Version
-
-download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
-
-and enter fd.py in that particular folder in cmd or double click on fd.py ...
+Then, enter "fd.py" in that particular folder in the command prompt or double-click on "fd.py
 
 👉Note:-
 
