@@ -1,6 +1,10 @@
 # Youtube-Auto-Feedback-
 Youtube Auto Feedback using python
 
+# If Having Error Like 
+Handle Is Invalid
+Then Fork It...
+
 Replace the 10th and 11th lines with "Enter your email" and "Enter your password" respectively in the script.
 
 Replace the 26th line with "Print the text received from the server."
